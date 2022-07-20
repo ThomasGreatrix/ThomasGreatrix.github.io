@@ -1,7 +1,7 @@
 ---
 title: 'There are no regular star polygons in the integer lattice.'
 date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/no_star_polygons/
 tags:
   - Geometry
   - Proof
