@@ -16,14 +16,14 @@ Education
 Work experience
 ======
 * Summer 2022: PSE - On-Campus Internship
-  * Cardiff University
-  * Duties included: 
+  * Cardiff University.
+  * Duties included: Working with my supervisors to produce original research, creating research software for new areas of biology, working with machine learning.
   * Supervisors: Katerina Kaouri, Joshua W. Moore, Timothy Ostler, Thomas E. Woolley
 
 * Autumn to Spring 2022: Peer support
-  * Github University
+  * Cardiff University.
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisors: Vince Knight, Geraint Palmer
   
 Skills
 ======
