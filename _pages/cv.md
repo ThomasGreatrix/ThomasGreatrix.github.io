@@ -19,7 +19,6 @@ Work experience
   * Cardiff University.
   * Duties included: Working with my supervisors to produce original research, creating research software for new areas of biology, working with machine learning including neural networks and deep learning.
   * Supervisors: Katerina Kaouri, Joshua W. Moore, Timothy Ostler, Thomas E. Woolley
-
 * Autumn to Spring 2022: Peer support
   * Cardiff University.
   * Duties included: Helping first year undergraduates learn python and use jupyter notebooks. This included topics such as using pep-8, developing software, using jupyter notebooks, and automatically testing code. 
@@ -27,12 +26,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, including:
+  * Machine learning.
+  * Creating software.
+  * Teaching others python.
+* Mathematics, including:
+  * Modelling systems.
+  * Applied methods, including fourier analysis.
+  * Number theory.
+  * Abstract algebra.
+  * Linear algebra.
   
 Service and leadership
 ======
