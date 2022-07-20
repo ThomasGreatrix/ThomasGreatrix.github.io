@@ -9,4 +9,4 @@ tags:
 
 This is some text.
 
-\[ \int^x_0 dx\]
+\\[ \\int^x_0 dx \\]
