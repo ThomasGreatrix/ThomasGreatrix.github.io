@@ -32,6 +32,7 @@ Skills
   * Teaching others python.
 * Mathematics, including:
   * Modelling systems.
+  * Classical mechanics.
   * Applied methods, including fourier analysis.
   * Number theory.
   * Abstract algebra.
