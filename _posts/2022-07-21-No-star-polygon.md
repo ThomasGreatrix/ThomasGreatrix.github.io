@@ -11,6 +11,4 @@ The 2D [integer lattice](https://en.wikipedia.org/wiki/Integer_lattice) is curre
 
 Formally, the integer lattice can be seen as the cartesian product \\( ( \mathbb{Z} \times \mathbb{Z} ) \\), however on a more intuitive level we can see it as a collection of points like so:
 
-![Dots](dots.png "dots")
-
-<img src="dots.png" width="200">
+<img src="dots.png" width="500" class="center">
