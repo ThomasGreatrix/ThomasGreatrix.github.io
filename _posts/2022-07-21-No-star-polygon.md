@@ -1,6 +1,6 @@
 ---
 title: 'Blog Post number 3'
-date: 2014-08-14
+date: 2022-07-21
 permalink: /posts/2022/07/No-star-polygon/
 tags:
   - cool posts
