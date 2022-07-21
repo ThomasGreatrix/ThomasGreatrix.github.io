@@ -1,20 +1,12 @@
 ---
-title: 'Blog Post number 3'
+title: 'No self-intersecting star polygon exists in the 2D integer lattice.'
 date: 2022-07-21
 permalink: /posts/2022/07/No-star-polygon/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Geometry
+  - Proof
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
+The 2D [integer lattice](https://en.wikipedia.org/wiki/Integer_lattice) is currently one of my favourite geometric structures, perhaps due to how intuitive it is to explain to somebody perhaps not interested in maths, coupled with the sheer volume of beautiful, intelligent proofs surrounding it. Today, I hope to share just one of these proofs.
 
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+Formally, the integer lattice can be seen as the cartesian product \\( ( \mathbb{Z}x\mathbb{z} ) \\).
